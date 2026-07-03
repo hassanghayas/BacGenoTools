@@ -34,11 +34,11 @@ conda activate bacgenotools
 ```
 
 
-<!-- Install dependencies (example):
+Install python packages:
 
 ```bash
 pip install -r requirements.txt
-``` -->
+```
 
 ## Usage
 
@@ -80,10 +80,6 @@ Contributions are welcome. You can:
 * Submit pull requests
 * Suggest improvements to documentation
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Citation
 
 If you use BacGenoTools in your research, please cite:
@@ -91,14 +87,8 @@ If you use BacGenoTools in your research, please cite:
 ```
 (Coming soon)
 ```
-
-## Contact
-
-For questions or collaboration:
-
-* GitHub Issues
-* Email: [your-email@example.com](mailto:your-email@example.com) -->
+ -->
 
 ---
 
-**BacGenoTools** aims to provide a simple tools for bacterial whole genome sequence analysis.
+**BacGenoTools** aims to provide a simple tools/scripts for bacterial whole genome sequence analysis.
